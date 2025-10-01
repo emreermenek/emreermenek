@@ -24,13 +24,6 @@ const emre = {
   goal: "Find my passion & build meaningful projects"
 };
 ```
-## 🔐 TryHackMe Profile
-
-<div align="center">
-  
-<img src="https://tryhackme-badges.s3.amazonaws.com/emreermenek1234.png" alt="Your Image Badge" />
-
-</div>
 
 ## 🛠 Technologies I've Worked With
 
