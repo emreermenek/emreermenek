@@ -28,7 +28,7 @@ const emre = {
 
 <div align="center">
   
-<img src="https://tryhackme-badges.s3.amazonaws.com/emreermenek1234.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/emreermenek1234.png" alt="Your Image Badge" />
 
 </div>
 
